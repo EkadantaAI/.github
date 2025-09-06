@@ -1,3 +1,22 @@
+<p align="center">
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@AIWizardry277?sub_confirmation=1">
+    <img alt="YouTube Subscribe" src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube">
+  </a>
+  <!-- Replace CHANNEL_ID if you want live view stats -->
+  <a href="https://www.youtube.com/@AIWizardry277" title="Channel views">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/CHANNEL_ID?style=social&logo=youtube">
+  </a>
+  <!-- GitHub Org -->
+  <a href="https://github.com/EkadantaAI">
+    <img alt="GitHub Org" src="https://img.shields.io/badge/GitHub-EkadantaAI-black?logo=github">
+  </a>
+  <!-- LinkedIn (optional: put your profile URL) -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+</p>
+
 # 🐘 EkadantaAI  
 
 **“One Tusk. One Vision. Infinite Possibilities.”**  
