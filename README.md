@@ -8,7 +8,7 @@ Welcome to **EkadantaAI**, a hub dedicated to mastering **Algorithms, Machine Le
 
 ## 📌 Featured Repositories  
 
-### 🔹 [leetcode-dsa](https://github.com/EkadantaAI/leetcode-dsa)  
+### 🔹 [leetcode-daily](https://github.com/EkadantaAI/leetcode-daily)  
 > Daily LeetCode solutions with explanations, patterns, and complexity notes.  
 
 ### 🔹 [kaggle-projects](https://github.com/EkadantaAI/kaggle-projects)  
